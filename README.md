@@ -82,13 +82,6 @@ F1 Score : 0.9338
   - `scikit-learn`
   - `tensorflow` (>=2.x)
 
-Install dependencies with:
-
-```bash
-pip install -r requirements.txt
-
----
-
 📬 Contact
 Created by FELLAH HANANE
 
@@ -101,4 +94,10 @@ MIT License
 
 Feel free to reach out for questions, collaborations, or suggestions!
 
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
+
+---
 
