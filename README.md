@@ -82,6 +82,17 @@ F1 Score : 0.9338
   - `scikit-learn`
   - `tensorflow` (>=2.x)
 
+## 📂 Dataset
+
+This project uses the following ECG datasets:
+
+1. **MIT-BIH Arrhythmia Database (v1.0.0)** – [Download here](https://www.physionet.org/content/mitdb/1.0.0/)  
+2. **PTB Diagnostic ECG Database (v1.0.0)** – [Download here](https://www.physionet.org/content/ptbdb/1.0.0/)
+
+> Note: This repository contains the notebook and code only.  
+> To run the notebook, please download the datasets from the links above and place them locally.
+
+
 ## 📬 Contact  
 Created by FELLAH HANANE
 
