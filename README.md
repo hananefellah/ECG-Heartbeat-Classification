@@ -82,15 +82,15 @@ F1 Score : 0.9338
   - `scikit-learn`
   - `tensorflow` (>=2.x)
 
-📬 Contact
+## 📬 Contact  
 Created by FELLAH HANANE
 
 📧 Email: hananefellah35@gmail.com
 
 🌐 GitHub: hananefellah
 
-📄 License
-MIT License
+## 📄 License  
+MIT License  
 
 Feel free to reach out for questions, collaborations, or suggestions!
 
